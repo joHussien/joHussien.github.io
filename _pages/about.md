@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>CS&E, University of Minnesotat Twin-Cities</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://cse.umn.edu/cs"> Ph.D. student @Data Management Lab, University of Minnesotat </a>. <br> <b> Why? Because I want to be the best!</b>.
 
 profile:
   align: right
