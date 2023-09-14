@@ -105,7 +105,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best way to reach me is to drop me an email.
+  Best way to reach me is to drop an email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hussein]
+  first_name: [Youssef]
 
   style: apa
   locale: en
