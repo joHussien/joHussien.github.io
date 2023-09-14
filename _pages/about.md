@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG-1294.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>4-204B Kenneth H. Keller Hall</p>
