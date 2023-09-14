@@ -21,5 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a 1st year Ph.D. student at the Database Management Lab @University of Minnesota. I graduated 2023 from the American University in Cairo with Bachelors of Science in Computer Engineering and double minor in Maths and Arabic Studies. Link to your favorite [subreddit](http://reddit.com). 
 
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
