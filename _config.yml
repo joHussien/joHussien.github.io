@@ -50,10 +50,10 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -192,6 +192,7 @@ latest_posts:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+highlight_theme: github
 kramdown:
   input: GFM
   syntax_highlighter_opts:
