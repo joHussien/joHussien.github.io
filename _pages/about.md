@@ -21,7 +21,7 @@ University of Minnesota<br>
 200 Union Street SE <br>
 Minneapolis, MN 55455<br>
 husse408 [at] umn.edu, youssefhussien [at] aucegypt.edu<br>
-[Google scholar](https://scholar.google.com/citations?hl=en&user=k2bx0PUAAAAJ) | | [Github](https://github.com/joHussien) || [Twitter](https://twitter.com/joHussien1) || [CV](https://go.jd92.wang/cv)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=k2bx0PUAAAAJ) | | [Github](https://github.com/joHussien) || [Twitter](https://twitter.com/joHussien1) || [CV-Blank]()
 
 
 I am a 1st year Ph.D. student at the Database Management Lab @University of Minnesota. I graduated 2023 from the American University in Cairo with Bachelors of Science in Computer Engineering and double minor in Maths and Arabic Studies. 
