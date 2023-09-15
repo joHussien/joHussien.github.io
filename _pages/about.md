@@ -6,7 +6,7 @@ subtitle: <a href="https://cse.umn.edu/cs"> Ph.D. student @Data Management Lab, 
 
 profile:
   align: left
-  image: IMG-1294.jpg
+  image: personal_img.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>4-204B Keller Hall</p>
@@ -17,12 +17,12 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
-Senior Researcher, Microsoft Research Asia<br>
+---
+<br> Senior Researcher, Microsoft Research Asia<br>
 Building 2, No. 5 Danling Street, Haidian District, Beijing, China<br>
 jindongwang [at] outlook.com, jindong.wang [at] microsoft.com<br>
 [Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [CV](https://go.jd92.wang/cv) [CV (Chinese)](https://go.jd92.wang/cvchinese)
----
+
 
 I am a 1st year Ph.D. student at the Database Management Lab @University of Minnesota. I graduated 2023 from the American University in Cairo with Bachelors of Science in Computer Engineering and double minor in Maths and Arabic Studies. Link to your favorite [subreddit](http://reddit.com). 
 
