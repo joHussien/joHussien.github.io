@@ -24,6 +24,12 @@ husse408 [at] umn.edu, youssefhussien [at] aucegypt.edu<br>
 [Google scholar](https://scholar.google.com/citations?hl=en&user=k2bx0PUAAAAJ) | | [Github](https://github.com/joHussien) || [Twitter](https://twitter.com/joHussien1) || [CV-outdated](https://drive.google.com/file/d/1t8G8n5KHmbxykhVW597d9lWWdP4FQjwN/view?usp=sharing)
 
 
+
+
+
+
+
+
 I am currently a first-year Ph.D. student at the Database Management Lab at the [University of Minnesota](https://cse.umn.edu/cs), under the supervision of [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel). I completed my Bachelor of Science degree in Computer Engineering at the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with double minors in Mathematics and Arabic Studies.
 
 My Thesis ["GPU Accelrated Dataflow analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis) revolved around GPU-accelerated dataflow analysis, as showcased in my thesis titled 'GPU Accelerated Dataflow Analysis'. This project, supervised by [Dr. Karim Aly](https://karimali.ca/) and [Dr. Cherif Salama](aucegypt.edu/fac/cherif-salama-salama), proposed a GPU-compatible implementation based on matrix representation. Our work achieved remarkable speedup of up to 250% compared to CPU implementations, offering a more efficient solution for real-time development environments and enhancing bug detection in software development.
