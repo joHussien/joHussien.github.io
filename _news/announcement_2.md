@@ -2,7 +2,7 @@
 layout: post
 title: Received a fully funded scholarship from the AGFE foundation
 date: 2019-09-01
-inline: false
+inline: true
 related_posts: false
 ---
 
