@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-06-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Garduated from the [American University in Cairo](https://www.aucegypt.edu/) with high honors. I recieved the Dean's List award (notable academic honors degree) in Spring 2021, Fall 2021, Spring 2022, Fall 2022 and Spring 2023 semesters. 
