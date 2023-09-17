@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graduated from the American Univeristy in Cairo
-date: 2023-06
+date: 2023-06-01
 inline: true
 related_posts: false
 ---
