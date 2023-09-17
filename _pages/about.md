@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<br> PhD Student, Department of Computer Science and Egnineering<br>
+<br> PhD Student, Department of Computer Science and Engineering<br>
 University of Minnesota<br>
 4-204B Kenneth H. Keller Hall <br>
 200 Union Street SE <br>
