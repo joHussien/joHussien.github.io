@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joined the University of Minnesota
-date: 2023-09-01
+date: 2023-09
 inline: true
 related_posts: false
 ---
