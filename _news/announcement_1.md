@@ -1,5 +1,6 @@
 ---
 layout: post
+title Joined University of Minnesota.
 date: 2023-09-01
 inline: true
 related_posts: false
