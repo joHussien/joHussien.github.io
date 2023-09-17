@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Received a fully funded scholarship from the AGFE foundation.
 date: 2019-09-01 16:11:00-0400
 inline: false
 related_posts: false
