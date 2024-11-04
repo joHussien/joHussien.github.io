@@ -1,37 +1,35 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Youssef Hussein",
+    "label": "Graduate Research Assistant and Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "husse408@umn.edu",
+    "phone": "+1 (612) 272-4359",
+    "url": "https://johussien.github.io/",
+    "summary": "A graduate research assistant at University of Minnesota researching big data systems with a focus on big spatial data.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "youssef-hussien",
+        "url": "https://www.linkedin.com/in/youssef-hussien/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "University of Minnesota - Twin Cities",
+      "position": "Graduate Research Assistant",
+      "url": "https://cse.umn.edu/cs",
+      "startDate": "2023-09-01",
+      "endDate": "present",
+      "summary": "Conducting research in the area of Big Data Management and Systems Architecture focusing on SpatioTemporal Data. Supervised by Prof. Mohamed Mokbel",
+      "currentProjects":[
+        "iHARP data infrastructure for polar scientists: Developed and presented a web portal (iharpv.cs.umn.edu) for interactively querying and visualizing raster data.",
+        "KAFYTraj An Extensible System For Trajectory Operations Using LLMs: Building a suitcase of LLMs analogous to HuggingFace to build and extend multiple trajectory operations." 
+        
+      ],
       "highlights": [
-        "Relativity"
+        "Packaging the system in an extensible easy-to-use python library pypi.org/project/KAFYTraj/"
       ]
     }
   ],
