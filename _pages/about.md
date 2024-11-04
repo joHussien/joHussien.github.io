@@ -3,7 +3,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> MSC student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
+subtitle: <b> PhD student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
 
 profile:
   align: left
