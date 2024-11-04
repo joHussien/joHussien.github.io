@@ -16,23 +16,31 @@
     ]
   },
   "work": [
-    {
-      "name": "University of Minnesota - Twin Cities",
-      "position": "Graduate Research Assistant",
-      "url": "https://cse.umn.edu/cs",
-      "startDate": "2023-09-01",
-      "endDate": "present",
-      "summary": "Conducting research in the area of Big Data Management and Systems Architecture focusing on SpatioTemporal Data. Supervised by Prof. Mohamed Mokbel",
-      "currentProjects":[
-        "iHARP data infrastructure for polar scientists: Developed and presented a web portal (iharpv.cs.umn.edu) for interactively querying and visualizing raster data.",
-        "KAFYTraj An Extensible System For Trajectory Operations Using LLMs: Building a suitcase of LLMs analogous to HuggingFace to build and extend multiple trajectory operations." 
-        
-      ],
-      "highlights": [
-        "Packaging the system in an extensible easy-to-use python library pypi.org/project/KAFYTraj/"
-      ]
-    }
-  ],
+  {
+    "name": "University of Minnesota - Twin Cities",
+    "position": "Graduate Research Assistant",
+    "url": "https://cse.umn.edu/cs",
+    "startDate": "2023-09-01",
+    "endDate": "present",
+    "summary": "Conducting research in the area of Big Data Management and Systems Architecture focusing on SpatioTemporal Data. Supervised by Prof. Mohamed Mokbel",
+    "highlights": [
+      {
+        "project": "iHARP data infrastructure",
+        "description": [
+          "Developed a web portal for interactively querying raster data.",
+          "Presented findings to the scientific community."
+        ]
+      },
+      {
+        "project": "KAFYTraj System",
+        "description": [
+          "Created an extensible system for trajectory operations using LLMs.",
+          "Designed a Python library for ease of use and accessibility."
+        ]
+      }
+    ]
+  }
+],
   "volunteer": [],
   "education": [
     {
