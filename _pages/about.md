@@ -3,7 +3,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Ph.D. student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b> Why? Because I want to be the best!</b>.
+subtitle: <b> Ph.D. student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
 
 profile:
   align: left
@@ -15,13 +15,15 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<br> 
+<br> 
 <br> PhD Student, Department of Computer Science and Engineering<br>
 University of Minnesota<br>
 4-204B Kenneth H. Keller Hall <br>
 200 Union Street SE <br>
 Minneapolis, MN 55455<br>
 husse408 [at] umn.edu, youssefhussien [at] aucegypt.edu<br>
-[Google scholar](https://scholar.google.com/citations?hl=en&user=k2bx0PUAAAAJ) | | [Github](https://github.com/joHussien) || [Twitter](https://twitter.com/joHussien1) || [CV-outdated](https://drive.google.com/file/d/1t8G8n5KHmbxykhVW597d9lWWdP4FQjwN/view?usp=sharing)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=k2bx0PUAAAAJ) | | [LinkedIn]([https://twitter.com/joHussien1](https://www.linkedin.com/in/youssef-hussien/)) || [Github](https://github.com/joHussien) || [Resume]([https://drive.google.com/file/d/1t8G8n5KHmbxykhVW597d9lWWdP4FQjwN/view?usp=sharing](https://drive.google.com/file/d/1eI387O-Qae_DD6eG0UIpMROG-rgXcxX6/view?usp=sharing))
 
 
 <br>
