@@ -11,7 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular 
 
 news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -36,9 +36,9 @@ husse408 [at] umn.edu, youssefhussien [at] aucegypt.edu<br>
 
 
 
-I am currently a first-year Ph.D. student at the Database Management Lab at the [University of Minnesota](https://cse.umn.edu/cs), under the supervision of [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel). I completed my Bachelor of Science degree in Computer Engineering at the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with double minors in Mathematics and Arabic Studies.
+I am currently a second-year Ph.D. student at the Database Management Lab at the [University of Minnesota](https://cse.umn.edu/cs), under the supervision of [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel). I completed my Bachelor of Science degree in Computer Engineering at the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with double minors in Mathematics and Arabic Studies.
 
-My Thesis ["GPU Accelrated Dataflow analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis) revolved around GPU-accelerated dataflow analysis. This project, supervised by [Dr. Karim Aly](https://karimali.ca/) and [Dr. Cherif Salama](aucegypt.edu/fac/cherif-salama-salama), proposed a GPU-compatible implementation based on matrix representation. Our work achieved remarkable speedup of up to 250% compared to CPU implementations, offering a more efficient solution for real-time development environments and enhancing bug detection in software development.
+My Thesis ["GPU Accelrated Dataflow analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis) revolved around GPU-accelerated dataflow analysis. This project, supervised by [Dr. Karim Aly](https://karimali.ca/) and [Dr. Cherif Salama](aucegypt.edu/fac/cherif-salama-salama), proposed a GPU-compatible implementation based on matrix representation to accelrelate the process of dataflow analysis. Our work achieved remarkable speedup of up to 250% compared to CPU implementations, offering a more efficient solution for real-time development environments and enhancing bug detection in software development.
 
 During my time at AUC, I served as a Junior Research Assistant at the [Computer Science Department](https://sse.aucegypt.edu/departments/cse) under the guidance of [Dr. Nouri Sakr](https://www.aucegypt.edu/fac/nouri). In this position, I contributed to a research project addressing the dual-criticality scheduling problem using various Reinforcement Learning (RL) models. Additionally, I worked as a Research Engineer in the [Construction Engineering Department](https://sse.aucegypt.edu/departments/construction-engineering) at AUC, where I led the development of an embedded application for a multidisciplinary research project. My responsibilities included proposing a multi-objective optimization model for sustainable farming while minimizing water consumption. I utilized Python libraries such as Beautiful Soup and Pandas to scrape real-time data for the app database using Excel VBA.
 
@@ -47,6 +47,6 @@ In terms of industry experience, I had the opportunity to work as a Platforms So
 Overall, my academic and industry experiences have equipped me with a diverse skill set and a strong foundation in computer science and engineering. I am passionate about pushing the boundaries of technology and contributing to innovative research and development projects.
 
 
-**Research interest:** Spatial data, data management systems, and machine learning. These days, I'm particularly interested in Large Language Models (LLMs) [evaluation](https://llm-eval.github.io/) and spatial data. 
+**Research interest:** Spatial data, data management systems, and software engineering. These days, I'm particularly interested in Large Language Models (LLMs) [evaluation](https://llm-eval.github.io/) and their applications in spatial data. 
 
-**Announcement:** This is a new website, it's still under construction. You might find some erros :)
+**Announcement:** This is a new website, it's still under construction. You might find some inc :)
