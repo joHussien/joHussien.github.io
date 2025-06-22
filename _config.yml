@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Hussein
 email: husse408@umn.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  1st year Ph.D. student @Database Management Lab, University of Minnesota - Twin-Cities.
+  2nd year Ph.D. student @Database Management Lab, University of Minnesota - Twin-Cities.
 footer_text: >
  
 # keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
@@ -111,7 +111,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-RV9538CWVK # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+# google_analytics: G-RV9538CWVK # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: 6099244897 # your google-site-verification ID (Google Search Console)
@@ -121,18 +121,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A free zone where I post often about topics I like :)
-permalink: /blog/:year/:title/
+# blog_name:  # blog_name will be displayed in your blog page
+# blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+# blog_description: A free zone where I post often about topics I like :)
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -157,9 +157,9 @@ related_blog_posts:
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -181,8 +181,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
@@ -212,6 +212,7 @@ exclude:
   - vendor
   - repositories
   - projects
+  - posts
 keep_files:
   - CNAME
   - .nojekyll
