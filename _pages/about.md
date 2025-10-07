@@ -25,7 +25,10 @@ My research focuses on **spatial data systems**, **large-scale data management**
 Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with minors in Mathematics and Arabic Studies.  
 My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance.
 
+<br>
+
 ---
+<br>
 
 ### Experience Highlights  
 - **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm):  
