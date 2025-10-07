@@ -7,7 +7,7 @@
 p,
 h1,
 h2,
-h5,
+h3,
 h4,
 h5,
 h6,
@@ -55,8 +55,8 @@ table.table a {
 
 figure,
 img {
-  width: 100% !important;
-  height: auto !important;
+  max-width: 90vw;
+
 }
 
 blockquote {
@@ -978,7 +978,7 @@ nav[data-toggle="toc"] {
 
     h1,
     h2,
-    h5,
+    h3,
     h4,
     h5,
     h6 {
@@ -996,7 +996,7 @@ nav[data-toggle="toc"] {
 
     h1,
     h2,
-    h5,
+    h3,
     h4,
     h5,
     h6 {
@@ -1014,7 +1014,7 @@ nav[data-toggle="toc"] {
 
     h1,
     h2,
-    h5,
+    h3,
     h4,
     h5,
     h6 {
