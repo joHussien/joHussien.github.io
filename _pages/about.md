@@ -24,6 +24,7 @@ I’m a **Ph.D. student in Computer Science** at the [University of Minnesota](h
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
 <br>
 <br>
+
 ---
 
 <br>
@@ -34,7 +35,7 @@ My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.acad
 
 ---
 
-### 💼 Experience Highlights  
+### Experience Highlights  
 - **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm):  
   Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
 - **Research Assistant** @ [AUC](https://www.aucegypt.edu):  
@@ -46,7 +47,7 @@ My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.acad
 
 ---
 
-### 🔍 Research Interests  
+### Research Interests  
 Spatial data systems, large-scale data management, GPU computing, and software engineering.  
 Currently exploring **LLM evaluation** and **AI integration in spatial and data-intensive systems**.
 
