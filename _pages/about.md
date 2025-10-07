@@ -1,17 +1,19 @@
 ---
+
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD Student @ Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota</a><br>
-<b>Personal Motto:</b> Why? Because I want to be the best!
+subtitle: <b> PhD student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
+
 profile:
   align: left
   image: personal_img.jpg
-  image_circular: true
-news: true
-latest_posts: true
-selected_papers: true
-social: true
+  image_circular: true # crops the image to make it circular 
+
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👋 Hi, I’m Youssef Hussein  
@@ -43,8 +45,9 @@ Spatial data systems, large-scale data management, GPU computing, and software e
 Currently exploring **LLM evaluation** and **AI integration in spatial and data-intensive systems**.
 
 ---
-
 ### Contact  
 📍 4-204B Kenneth H. Keller Hall, University of Minnesota  
 📧 husse408 [at] umn.edu | youssefhussien [at] aucegypt.edu  
 [Google Scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/youssef-hussien/) · [Resume](https://johussien.github.io/assets/pdf/YoussefHussein.pdf)
+
+---
