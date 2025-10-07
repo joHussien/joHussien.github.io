@@ -1638,7 +1638,7 @@ ol,
 li,
 h1,
 h2,
-h3,
+h5,
 h4,
 h5,
 h6,
@@ -2265,8 +2265,8 @@ div.text_cell_render h1,
 div.rendered_html h1,
 div.text_cell_render h2,
 div.rendered_html h2,
-div.text_cell_render h3,
-div.rendered_html h3,
+div.text_cell_render h5,
+div.rendered_html h5,
 div.text_cell_render h4,
 div.rendered_html h4,
 div.text_cell_render h5,
@@ -2277,7 +2277,7 @@ div.rendered_html h5 {
 
 .rendered_html h1:first-child,
 .rendered_html h2:first-child,
-.rendered_html h3:first-child,
+.rendered_html h5:first-child,
 .rendered_html h4:first-child,
 .rendered_html h5:first-child,
 .rendered_html h6:first-child {
@@ -2302,8 +2302,8 @@ div.rendered_html h5 {
     font-weight: normal;
 }
 
-.rendered_html h3,
-.text_cell_render h3 {
+.rendered_html h5,
+.text_cell_render h5 {
     color: #a6e22e !important;
     font-size: 140%;
     font-style: normal;
@@ -2560,7 +2560,7 @@ div.cell.text_cell a.anchor-link:link:hover {
     cursor: auto;
 }
 
-#nbextensions-configurator-container>div.row.container-fluid.nbext-selector>h3 {
+#nbextensions-configurator-container>div.row.container-fluid.nbext-selector>h5 {
     font-size: 17px;
     margin-top: 5px;
     margin-bottom: 8px;
@@ -2830,7 +2830,7 @@ div.collapsible_headings_toggle:hover {
 
 .collapsible_headings_toggle .h1,
 .collapsible_headings_toggle .h2,
-.collapsible_headings_toggle .h3,
+.collapsible_headings_toggle .h5,
 .collapsible_headings_toggle .h4,
 .collapsible_headings_toggle .h5,
 .collapsible_headings_toggle .h6 {
@@ -2847,7 +2847,7 @@ div.collapsible_headings_toggle .fa-caret-right:before {
 
 .collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h1:after,
 .collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h2:after,
-.collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h3:after,
+.collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h5:after,
 .collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h4:after,
 .collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h5:after,
 .collapsible_headings_collapsed.collapsible_headings_ellipsis .rendered_html h6:after {
@@ -2861,7 +2861,7 @@ div.collapsible_headings_toggle .fa-caret-right:before {
 
 .collapsible_headings_ellipsis .rendered_html h1,
 .collapsible_headings_ellipsis .rendered_html h2,
-.collapsible_headings_ellipsis .rendered_html h3,
+.collapsible_headings_ellipsis .rendered_html h5,
 .collapsible_headings_ellipsis .rendered_html h4,
 .collapsible_headings_ellipsis .rendered_html h5,
 .collapsible_headings_ellipsis .rendered_html h6,
