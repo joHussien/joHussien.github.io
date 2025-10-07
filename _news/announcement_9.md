@@ -1,26 +1,27 @@
 ---
 layout: post
 title: 🎉 New Publication Alert!
-date: 2025-05-30
+date: 2025-10-01
 inline: false
 related_posts: false
 ---
 
 <div style="background: #fff; color: #111; padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 1px solid #f3f3f3;">
 
-  <h1 style="margin-bottom: 10px; color: #e91e63;">Our Tutorial Got Accepted at <strong>VLDB 2025!</strong></h1>
+  <h1 style="margin-bottom: 10px; color: #e91e63;">Our Paper Got Accepted at <strong>UMFM 2025!</strong></h1>
   
   <p style="font-size: 1.1em; margin-bottom: 20px;">
-    Excited to announce that our tutorial titled  
-    <strong style="color: #111;">“Large Language Models for Spatial Analysis Queries”</strong>  
-    has been accepted at <strong style="color: #111;">VLDB 2025</strong>! 🎓
+    We’re excited to announce that our paper,  
+    <strong style="color: #111;">“Large Language Models for Spatial Analysis Tasks”</strong>,  
+    has been accepted for publication in the  
+    <strong style="color: #111;">1st ACM SIGSPATIAL International Workshop on Urban Mobility Foundation Models (UMFM ’25)</strong>. 🎓
   </p>
 
-  <a href="https://dl.acm.org/doi/10.14778/3750601.3750693" 
+  <a href="#" 
      style="display: inline-block; background: #111; color: white; 
             padding: 10px 22px; border-radius: 8px; text-decoration: none; 
             font-weight: bold; transition: 0.3s;">
-    📄 View Tutorial Details
+    📄 Link Coming Soon
   </a>
 
 </div>
