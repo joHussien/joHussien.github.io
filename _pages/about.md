@@ -28,8 +28,6 @@ My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.acad
 <br>
 
 ---
-<br>
-
 ### Experience Highlights  
 - **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm):  
   Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
