@@ -8,7 +8,7 @@ related_posts: false
 
 <div style="background: #fff; color: #111; padding: 25px; border-radius: 12px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border: 1px solid #f3f3f3;">
 
-  <h1 style="margin-bottom: 10px; color: #e91e63;">Our Tutorial Got Accepted at <strong>VLDB 2025!</strong></h1>
+  <h3 style="margin-bottom: 10px; color: #e91e63;">Our Tutorial Got Accepted at <strong>VLDB 2025!</strong></h3>
   
   <p style="font-size: 1.1em; margin-bottom: 20px;">
     Excited to announce that our tutorial titled  

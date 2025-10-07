@@ -9,6 +9,7 @@ profile:
   align: left
   image: personal_img.jpg
   image_circular: true # crops the image to make it circular 
+  image_width: 150
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <br>
+<br>
+
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. student in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
@@ -27,7 +30,7 @@ My research focuses on **spatial data systems**, **large-scale data management**
 
 ### 🎓 Academic Background  
 Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with minors in Mathematics and Arabic Studies.  
-My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance—achieving up to **250% speedup** compared to CPU implementations.
+My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance.
 
 ---
 
