@@ -2,7 +2,7 @@
 layout: post
 title: 🎓 Travel Award Announcement!
 date: 2025-07-01
-inline: false
+inline: true
 related_posts: false
 ---
 

@@ -9,7 +9,7 @@ profile:
   align: left
   image: personal_img.jpg
   image_circular: true # crops the image to make it circular 
-  image_width: 10
+  image_width: 150
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
