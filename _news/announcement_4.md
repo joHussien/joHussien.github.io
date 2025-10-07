@@ -2,7 +2,7 @@
 layout: post
 title: 🎉 New Publication Alert!
 date: 2025-02-10
-inline: false
+inline: true
 related_posts: false
 ---
 
@@ -16,7 +16,7 @@ related_posts: false
   </p>
 
   <a href="https://ieeexplore.ieee.org/document/11058433" 
-     style="display: inline-block; background: #111; color: white; 
+     style="display: inline-block; background: #e91e63; color: white; 
             padding: 10px 22px; border-radius: 8px; text-decoration: none; 
             font-weight: bold; transition: 0.3s;">
     📄 View Seminar Details

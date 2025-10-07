@@ -2,7 +2,7 @@
 layout: post
 title: 🎉 New Publication Alert!
 date: 2025-10-01
-inline: false
+inline: true
 related_posts: false
 ---
 

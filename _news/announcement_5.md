@@ -2,7 +2,7 @@
 layout: post
 title: 🎉 New Publication Alert!
 date: 2025-05-27
-inline: false
+inline: true
 related_posts: false
 ---
 
@@ -15,7 +15,7 @@ related_posts: false
     <strong style="color: ##111;">VLDB 2025</strong>! 🎓
   </p>
   <a href="https://dl.acm.org/doi/10.14778/3750601.3750668" 
-     style="display: inline-block; background: ##111; color: white; 
+     style="display: inline-block; background: ##e91e63; color: white; 
             padding: 10px 22px; border-radius: 8px; text-decoration: none; 
             font-weight: bold; transition: 0.3s;">
     📄 Read the Paper: <em>“A Demonstration of POLARIS: An Interactive and Scalable Data Infrastructure for Polar Science”</em>
