@@ -3,7 +3,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> A PhD Candidate @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
+subtitle: <b> A PhD Candidate @Data Management Lab</b> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <b>Personal Moto:</b> Why? Because I want to be the best!.
 
 profile:
   align: left
@@ -24,8 +24,8 @@ My research focuses on **spatial data systems**, **large-scale data management**
 
 <style>
   .profile img {
-  width: 250px !important;
-  max-width: 250px !important;
+  width: 200px !important;
+  max-width: 200px !important;
 }
 .exp-list {
   list-style: none;
