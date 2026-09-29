@@ -18,31 +18,35 @@ social: true  # includes social icons at the bottom of the page
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. student in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
-<br>
+<!-- <br> -->
 
----
+<!-- ---
 ### 🎓 Academic Background  
 Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with minors in Mathematics and Arabic Studies.  
-My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance.
+My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance. -->
 
-<br>
+<!-- <br> -->
 
 ---
 ### Experience Highlights  
-- **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm):  
-  Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
+-  **Research Intern — GeoAI Team** @[Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/group/geoai) | April 2026 – August 2026:
+  - Conducted research with the GeoAI team on AI and geospatial data applications.
+  - Contributed to research on multimodal Earth observation data and agentic reasoning systems.
+  - Research contributions resulted in publications at NeurIPS and ACM SIGSPATIAL.
+- **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm) | March 2022 - March 2023:  
+  - Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
 - **Research Assistant** @ [AUC](https://www.aucegypt.edu):  
-  Worked on **Reinforcement Learning for dual-criticality scheduling** and **optimization for sustainable farming** projects.  
+  - Worked on **Reinforcement Learning for dual-criticality scheduling** and **optimization for sustainable farming** projects.  
 - **Mentor** @ [Udacity](https://www.udacity.com/about-us):  
-  Led 200 students in the *Digital Egypt Cubs Initiative*, achieving a **97% graduation rate**.  
+  - Led 200 students in the *Digital Egypt Cubs Initiative*, achieving a **97% graduation rate**.  
 - **Front-End Engineer Intern** @ [Silicon Arena LLC](https://github.com/SiliconArena/alphamart):  
-  Developed React.js components for an open-source eCommerce platform.
+  - Developed React.js components for an open-source eCommerce platform.
 
----
+<!-- ---
 
 ### Research Interests  
 Spatial data systems, large-scale data management, GPU computing, and software engineering.  
-Currently exploring **LLM evaluation** and **AI integration in spatial and data-intensive systems**.
+Currently exploring **LLM evaluation** and **AI integration in spatial and data-intensive systems**. -->
 
 ---
 ### Contact  
