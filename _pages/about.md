@@ -10,7 +10,7 @@ profile:
   image: personal_img.jpg
   image_circular: false # crops the image to make it circular 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -30,6 +30,7 @@ My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.acad
 <br>
 <br>
 <br>
+
 ---
 ### Experience Highlights  
 
@@ -45,6 +46,22 @@ My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.acad
   - Led 200 students in the *Digital Egypt Cubs Initiative*, achieving a **97% graduation rate**.  
 - **Front-End Engineer Intern** @ [Silicon Arena LLC](https://github.com/SiliconArena/alphamart):  
   - Developed React.js components for an open-source eCommerce platform.
+
+---
+### 📰 News
+
+- **Sep 2026:** Our paper *MOSAIC-CONUS: A Multimodal, Multi-Temporally Paired Dataset for Earth Sciences* was accepted to **NeurIPS 2026** (acceptance rate 25.8%).
+- **Aug 2026:** Awarded the **Google DeepMind Student Travel Grant** to attend ACM SIGSPATIAL OASIS 2026.
+- **Aug 2026:** **ARFA**, our agentic system for real-time riverine flood response, was selected as a **Top 10 Finalist** in the ACM SIGSPATIAL 2026 OASIS Student Challenge.
+- **Aug 2026:** Our demo paper on **Aether**, an agentic retrieval and reasoning system for multimodal Earth observation data, was accepted to **ACM SIGSPATIAL 2026**.
+- **Aug 2026:** Wrapped up my research internship with the **GeoAI Team at Oak Ridge National Laboratory (ORNL)**.
+- **Jun 2026:** **KAFY**, our extensible and scalable transformers-based system for trajectory data analysis, was accepted to **PVLDB** (19(11), 3385–3399), along with a system demonstration.
+- **Apr 2026:** Started as a Research Intern with the **GeoAI Team at Oak Ridge National Laboratory (ORNL)**.
+- **Jan 2026:** Our paper *"Large Language Models for Spatial Analysis Queries"* was accepted to **IEEE ICDE 2026**, and also to **SBBD 2026**.
+- **Aug 2025:** Awarded the **VLDB Travel Award Grant** to attend the 52nd International Conference on Very Large Databases.
+- **May 2025:** Two papers at **VLDB 2025**: *"POLARIS: An Interactive and Scalable Data Infrastructure for Polar Science"* and our tutorial *"Large Language Models for Spatial Queries Analysis."*
+- **2023–2024:** Awarded the **GAGE Fellowship** (Grants to Advance Graduate Education), University of Minnesota.
+---
 
 <!-- ---
 
