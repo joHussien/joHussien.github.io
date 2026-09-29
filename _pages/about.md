@@ -7,7 +7,7 @@ subtitle: <b> A PhD Candidate @Data Management Lab</b><br> <a href="https://cse.
 
 profile:
   align: left
-  image: personal_img.jpg
+  image: personalImage.jpeg
   image_circular: true # crops the image to make it circular 
   image_width: 100px 
 
