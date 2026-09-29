@@ -9,7 +9,7 @@ profile:
   align: left
   image: personal_img.jpg
   image_circular: true # crops the image to make it circular 
-  image_width: 150px 
+  image_width: 100px 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,9 +19,14 @@ social: false  # includes social icons at the bottom of the page
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
+
 ---
 
 <style>
+  .profile img {
+  width: 100px !important;
+  max-width: 100px !important;
+}
 .exp-list {
   list-style: none;
   padding-left: 0;
@@ -37,6 +42,8 @@ My research focuses on **spatial data systems**, **large-scale data management**
 .exp-item:hover {
   background-color: rgba(0,0,0,0.03);
 }
+.exp-item.industry { border-left-color: #27ae60; }
+.exp-item.teaching  { border-left-color: #8e44ad; }
 .exp-head {
   display: flex;
   justify-content: space-between;
@@ -48,9 +55,11 @@ My research focuses on **spatial data systems**, **large-scale data management**
   font-size: 1.02em;
 }
 .exp-org {
-  color: #2980b9;
   font-weight: 600;
 }
+.exp-item .exp-org       { color: #2980b9; }
+.exp-item.industry .exp-org { color: #27ae60; }
+.exp-item.teaching .exp-org  { color: #8e44ad; }
 .exp-date {
   color: #888;
   font-size: 0.85em;
@@ -67,10 +76,16 @@ My research focuses on **spatial data systems**, **large-scale data management**
 .exp-sub li {
   margin-bottom: 0.2rem;
 }
+.exp-subhead {
+  font-size: 1.1em;
+  font-weight: 700;
+  margin: 1.5rem 0 0.6rem 0;
+}
 </style>
 
 ### 💼 Experience Highlights
 
+<div class="exp-subhead">🔬 Research</div>
 <ul class="exp-list">
   <li class="exp-item">
     <div class="exp-head">
@@ -85,38 +100,106 @@ My research focuses on **spatial data systems**, **large-scale data management**
   </li>
   <li class="exp-item">
     <div class="exp-head">
-      <span><span class="exp-role">Platforms Software Engineer Co-op</span> @ <span class="exp-org"><a href="https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm">Dell Technologies</a></span></span>
-      <span class="exp-date">Mar 2022 – Mar 2023</span>
+      <span><span class="exp-role">Graduate Research Assistant & Fellow</span> @ <span class="exp-org"><a href="https://cse.umn.edu/cs">University of Minnesota</a></span></span>
+      <span class="exp-date">Sep 2023 – Present</span>
     </div>
     <ul class="exp-sub">
-      <li>Contributed to the 5G team using <b>C++</b>, <b>Docker</b>, and <b>GitHub CI/CD</b>.</li>
+      <li>Research on efficient data systems with native support for spatiotemporal data and on enabling LLMs to better understand and interact with such data.</li>
+      <li><b>KAFY</b>: an extensible, scalable transformers-based system for trajectory data analysis (summarization, generation, prediction, imputation, classification).</li>
+      <li><b>LLMs for Spatial Analysis</b>: presented several tutorials on large language models for spatial analysis queries.</li>
+      <li><b>POLARIS/iHARP</b>: infrastructure and web-based interfaces for interactive querying and visualization of scientific raster data.</li>
     </ul>
   </li>
   <li class="exp-item">
     <div class="exp-head">
-      <span><span class="exp-role">Research Assistant</span> @ <span class="exp-org"><a href="https://www.aucegypt.edu">AUC</a></span></span>
+      <span><span class="exp-role">Research Engineer & Junior Research Assistant</span> @ <span class="exp-org"><a href="https://www.aucegypt.edu">American University in Cairo</a></span></span>
+      <span class="exp-date">Sep 2019 – Jul 2021</span>
     </div>
     <ul class="exp-sub">
-      <li>Worked on <b>reinforcement learning for dual-criticality scheduling</b> and <b>optimization for sustainable farming</b> projects.</li>
-    </ul>
-  </li>
-  <li class="exp-item">
-    <div class="exp-head">
-      <span><span class="exp-role">Mentor</span> @ <span class="exp-org"><a href="https://www.udacity.com/about-us">Udacity</a></span></span>
-    </div>
-    <ul class="exp-sub">
-      <li>Led 200 students in the <i>Digital Egypt Cubs Initiative</i>, achieving a <b>97% graduation rate</b>.</li>
-    </ul>
-  </li>
-  <li class="exp-item">
-    <div class="exp-head">
-      <span><span class="exp-role">Front-End Engineer Intern</span> @ <span class="exp-org"><a href="https://github.com/SiliconArena/alphamart">Silicon Arena LLC</a></span></span>
-    </div>
-    <ul class="exp-sub">
-      <li>Developed React.js components for an open-source eCommerce platform.</li>
+      <li>Developed an embedded system integrating four subsystems for sustainable agriculture, enabling real-time agricultural data extraction and analysis using Python, NumPy/Pandas, BeautifulSoup, and VBA.</li>
+      <li>Built and evaluated reinforcement learning models for dual-criticality scheduling using OpenAI Gym, RLlib, and TensorFlow.</li>
     </ul>
   </li>
 </ul>
+
+<div class="exp-subhead">🏢 Industry</div>
+<ul class="exp-list">
+  <li class="exp-item industry">
+    <div class="exp-head">
+      <span><span class="exp-role">Software Engineer Co-op</span> @ <span class="exp-org"><a href="https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm">Dell Technologies</a></span></span>
+      <span class="exp-date">Mar 2022 – Mar 2023</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Developed production-grade <b>C++</b> modules for Dell's 5G platform, improving throughput and reliability in latency-sensitive environments.</li>
+      <li>Collaborated with distributed engineering teams across Egypt, India, and Canada on server deployments, <b>CI/CD</b> pipelines, and gRPC-based microservices.</li>
+      <li>Containerized 30+ services using <b>Docker</b> and <b>Podman</b>, reducing deployment time by ~15%.</li>
+    </ul>
+  </li>
+  <li class="exp-item industry">
+    <div class="exp-head">
+      <span><span class="exp-role">Software Engineer Intern</span> @ <span class="exp-org"><a href="https://github.com/SiliconArena/alphamart">Silicon Arena LLC</a></span></span>
+      <span class="exp-date">Aug 2021 – Oct 2021</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Developed front-end modules for an open-source, Agile-based e-commerce platform using <b>React.js</b> and REST APIs.</li>
+      <li>Collaborated with back-end developers to integrate databases with data-driven user interfaces.</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="exp-subhead">🎓 Teaching</div>
+<ul class="exp-list">
+  <li class="exp-item teaching">
+    <div class="exp-head">
+      <span><span class="exp-role">Graduate Teaching Assistant</span> @ <span class="exp-org"><a href="https://cse.umn.edu/cs">University of Minnesota</a></span></span>
+      <span class="exp-date">2026</span>
+    </div>
+    <ul class="exp-sub">
+      <li>CSCI 4707: Practice of Database Systems.</li>
+    </ul>
+  </li>
+  <li class="exp-item teaching">
+    <div class="exp-head">
+      <span><span class="exp-role">Graduate Teaching Assistant</span> @ <span class="exp-org"><a href="https://cse.umn.edu/cs">University of Minnesota</a></span></span>
+      <span class="exp-date">Feb 2025 – May 2025</span>
+    </div>
+    <ul class="exp-sub">
+      <li>CSCI 5708: Architecture and Implementation of Database Management Systems.</li>
+      <li>Supported ~50 students through office hours and project guidance, including work involving PostgreSQL.</li>
+    </ul>
+  </li>
+  <li class="exp-item teaching">
+    <div class="exp-head">
+      <span><span class="exp-role">Undergraduate Teaching Assistant</span> @ <span class="exp-org"><a href="https://www.aucegypt.edu">American University in Cairo</a></span></span>
+      <span class="exp-date">Jan 2023 – May 2023</span>
+    </div>
+    <ul class="exp-sub">
+      <li>CSCE 4301: Embedded Systems Lab.</li>
+    </ul>
+  </li>
+  <li class="exp-item teaching">
+    <div class="exp-head">
+      <span><span class="exp-role">Programming Fundamentals Mentor</span> @ <span class="exp-org"><a href="https://www.udacity.com/about-us">Udacity</a></span></span>
+      <span class="exp-date">Sep 2022 – May 2024</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Mentored 300+ students in Python, data structures, and algorithms.</li>
+      <li>Delivered 900+ hours of mentoring and technical instruction to students ages 12–17, including 200 students in the <i>Digital Egypt Cubs Initiative</i> at a 97% graduation rate.</li>
+    </ul>
+  </li>
+  <li class="exp-item teaching">
+    <div class="exp-head">
+      <span><span class="exp-role">Machine Learning Instructor</span> @ <span class="exp-org">Google Developer Student Club, AUC</span></span>
+      <span class="exp-date">Aug 2021 – Dec 2021</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Introduced 40+ students to machine learning concepts, Google BigQuery, and Qwiklabs hands-on exercises.</li>
+    </ul>
+  </li>
+</ul>
+
+
+
 <style>
 .news-list {
   list-style: none;
