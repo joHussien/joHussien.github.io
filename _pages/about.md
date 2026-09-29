@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, MDM, and NeurIPS.
 
----
+
 
 <style>
   .profile img {
@@ -82,7 +82,11 @@ My research focuses on **spatial data systems**, **large-scale data management**
   margin: 1.5rem 0 0.6rem 0;
 }
 </style>
-
+<br>
+<br>
+<br>
+<br>
+---
 ### 💼 Experience Highlights
 
 <div class="exp-subhead">🔬 Research</div>
