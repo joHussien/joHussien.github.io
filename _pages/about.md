@@ -26,7 +26,10 @@ Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [Amer
 My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance. -->
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
 ---
 ### Experience Highlights  
 
