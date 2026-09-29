@@ -8,8 +8,8 @@ subtitle: <b> A PhD Candidate @Data Management Lab</b><br> <a href="https://cse.
 profile:
   align: left
   image: personalImage.jpeg
-  image_circular: true # crops the image to make it circular 
-  image_width: 100px 
+  image_circular: false # crops the image to make it circular 
+  image_width: 150px 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,14 +18,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
-My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
+My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, MDM, and NeurIPS.
 
 ---
 
 <style>
   .profile img {
-  width: 100px !important;
-  max-width: 100px !important;
+  width: 150px !important;
+  max-width: 150px !important;
 }
 .exp-list {
   list-style: none;
