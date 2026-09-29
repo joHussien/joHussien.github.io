@@ -8,7 +8,7 @@ subtitle: <b> A PhD Candidate @Data Management Lab</b><br> <a href="https://cse.
 profile:
   align: left
   image: personal_img.jpg
-  image_circular: false # crops the image to make it circular 
+  image_circular: true # crops the image to make it circular 
   image_width: 150px 
 
 news: false  # includes a list of news items
@@ -19,36 +19,104 @@ social: false  # includes social icons at the bottom of the page
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
-<!-- <br> -->
-
-<!-- ---
-### 🎓 Academic Background  
-Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with minors in Mathematics and Arabic Studies.  
-My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance. -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
-### Experience Highlights  
 
-- **Research Intern — GeoAI Team** @[Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/group/geoai)  April 2026 – August 2026:
-  - Conducted research with the GeoAI team on AI and geospatial data applications.
-  - Contributed to research on multimodal Earth observation data and agentic reasoning systems.
-  - Research contributions resulted in publications at NeurIPS and ACM SIGSPATIAL.
-- **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm)  March 2022 - March 2023:  
-  - Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
-- **Research Assistant** @ [AUC](https://www.aucegypt.edu):  
-  - Worked on **Reinforcement Learning for dual-criticality scheduling** and **optimization for sustainable farming** projects.  
-- **Mentor** @ [Udacity](https://www.udacity.com/about-us):  
-  - Led 200 students in the *Digital Egypt Cubs Initiative*, achieving a **97% graduation rate**.  
-- **Front-End Engineer Intern** @ [Silicon Arena LLC](https://github.com/SiliconArena/alphamart):  
-  - Developed React.js components for an open-source eCommerce platform.
+<style>
+.exp-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.exp-item {
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.8rem;
+  border-left: 3px solid #2980b9;
+  border-radius: 2px;
+  transition: background-color 0.2s ease;
+}
+.exp-item:hover {
+  background-color: rgba(0,0,0,0.03);
+}
+.exp-head {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+.exp-role {
+  font-weight: 700;
+  font-size: 1.02em;
+}
+.exp-org {
+  color: #2980b9;
+  font-weight: 600;
+}
+.exp-date {
+  color: #888;
+  font-size: 0.85em;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.exp-sub {
+  margin: 0.4rem 0 0 0;
+  padding-left: 1.1rem;
+  color: #555;
+  font-size: 0.92em;
+  line-height: 1.55;
+}
+.exp-sub li {
+  margin-bottom: 0.2rem;
+}
+</style>
 
+### 💼 Experience Highlights
+
+<ul class="exp-list">
+  <li class="exp-item">
+    <div class="exp-head">
+      <span><span class="exp-role">Research Intern — GeoAI Team</span> @ <span class="exp-org"><a href="https://www.ornl.gov/group/geoai">Oak Ridge National Laboratory (ORNL)</a></span></span>
+      <span class="exp-date">Apr 2026 – Aug 2026</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Conducted research with the GeoAI team on AI and geospatial data applications.</li>
+      <li>Contributed to research on multimodal Earth observation data and agentic reasoning systems.</li>
+      <li>Research contributions resulted in publications at NeurIPS and ACM SIGSPATIAL.</li>
+    </ul>
+  </li>
+  <li class="exp-item">
+    <div class="exp-head">
+      <span><span class="exp-role">Platforms Software Engineer Co-op</span> @ <span class="exp-org"><a href="https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm">Dell Technologies</a></span></span>
+      <span class="exp-date">Mar 2022 – Mar 2023</span>
+    </div>
+    <ul class="exp-sub">
+      <li>Contributed to the 5G team using <b>C++</b>, <b>Docker</b>, and <b>GitHub CI/CD</b>.</li>
+    </ul>
+  </li>
+  <li class="exp-item">
+    <div class="exp-head">
+      <span><span class="exp-role">Research Assistant</span> @ <span class="exp-org"><a href="https://www.aucegypt.edu">AUC</a></span></span>
+    </div>
+    <ul class="exp-sub">
+      <li>Worked on <b>reinforcement learning for dual-criticality scheduling</b> and <b>optimization for sustainable farming</b> projects.</li>
+    </ul>
+  </li>
+  <li class="exp-item">
+    <div class="exp-head">
+      <span><span class="exp-role">Mentor</span> @ <span class="exp-org"><a href="https://www.udacity.com/about-us">Udacity</a></span></span>
+    </div>
+    <ul class="exp-sub">
+      <li>Led 200 students in the <i>Digital Egypt Cubs Initiative</i>, achieving a <b>97% graduation rate</b>.</li>
+    </ul>
+  </li>
+  <li class="exp-item">
+    <div class="exp-head">
+      <span><span class="exp-role">Front-End Engineer Intern</span> @ <span class="exp-org"><a href="https://github.com/SiliconArena/alphamart">Silicon Arena LLC</a></span></span>
+    </div>
+    <ul class="exp-sub">
+      <li>Developed React.js components for an open-source eCommerce platform.</li>
+    </ul>
+  </li>
+</ul>
 <style>
 .news-list {
   list-style: none;
