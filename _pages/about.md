@@ -85,7 +85,7 @@ My research focuses on **spatial data systems**, **large-scale data management**
 <br>
 <br>
 <br>
-<br>
+
 ---
 ### 💼 Experience Highlights
 
