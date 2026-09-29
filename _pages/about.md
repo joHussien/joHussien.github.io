@@ -3,7 +3,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> PhD student @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
+subtitle: <b> PhD Candidate @Data Management Lab</b><br> <a href="https://cse.umn.edu/cs">University of Minnesota </a>. <br> <b>Personal Moto:</b> Why? Because I want to be the best!.
 
 profile:
   align: left
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ### 👋 Hi, I’m Youssef Hussein  
-I’m a **Ph.D. student in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
+I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
 My research focuses on **spatial data systems**, **large-scale data management**, and the **intersection of databases and AI**, especially **LLM evaluation for spatial data applications**. I have publications in top-tier venues as VLDB, SIGSPATIAL, and MDM, please refer to my [google scholar](https://scholar.google.com/citations?user=_aZutVoAAAAJ&hl=en) the full list of publications.
 <!-- <br> -->
 
