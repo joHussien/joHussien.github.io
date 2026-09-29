@@ -12,8 +12,8 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 ### 👋 Hi, I’m Youssef Hussein  
 I’m a **Ph.D. Candidate in Computer Science** at the [University of Minnesota](https://cse.umn.edu/cs), advised by [Prof. Mohamed Mokbel](https://cse.umn.edu/cs/mohamed-mokbel) at the **Data Management Lab**.  
