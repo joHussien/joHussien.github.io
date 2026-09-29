@@ -9,7 +9,7 @@ profile:
   align: left
   image: personalImage.jpeg
   image_circular: false # crops the image to make it circular 
-  image_width: 150px 
+  image_width: 250px 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -24,8 +24,8 @@ My research focuses on **spatial data systems**, **large-scale data management**
 
 <style>
   .profile img {
-  width: 150px !important;
-  max-width: 150px !important;
+  width: 250px !important;
+  max-width: 250px !important;
 }
 .exp-list {
   list-style: none;
