@@ -25,15 +25,16 @@ My research focuses on **spatial data systems**, **large-scale data management**
 Before joining UMN, I earned my **B.Sc. in Computer Engineering** from the [American University in Cairo (AUC)](https://www.aucegypt.edu/) in 2023, with minors in Mathematics and Arabic Studies.  
 My undergraduate thesis, *["GPU Accelerated Dataflow Analysis"](https://www.academia.edu/102804649/GPU_Accelerated_Dataflow_Analysis)*, proposed a GPU-based matrix formulation to enhance dataflow analysis performance. -->
 
-<!-- <br> -->
+<br>
 
 ---
 ### Experience Highlights  
--  **Research Intern — GeoAI Team** @[Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/group/geoai) | April 2026 – August 2026:
+
+- **Research Intern — GeoAI Team** @[Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/group/geoai)  April 2026 – August 2026:
   - Conducted research with the GeoAI team on AI and geospatial data applications.
   - Contributed to research on multimodal Earth observation data and agentic reasoning systems.
   - Research contributions resulted in publications at NeurIPS and ACM SIGSPATIAL.
-- **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm) | March 2022 - March 2023:  
+- **Platforms Software Engineer Co-op** @ [Dell Technologies](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm)  March 2022 - March 2023:  
   - Contributed to the 5G team using **C++**, **Docker**, and **GitHub CI/CD**.  
 - **Research Assistant** @ [AUC](https://www.aucegypt.edu):  
   - Worked on **Reinforcement Learning for dual-criticality scheduling** and **optimization for sustainable farming** projects.  
